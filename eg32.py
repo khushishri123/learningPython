@@ -21,5 +21,6 @@ if __name__=="__main__":
     # the syntax will be same as that of write
     # to open an image file in read mode we have to write:
     # f=open('IMG_PNG','rb') same thing for writing a image file: 'wb'
+    # see the code mysql_connect.py also. It will tell you about how to connect with mysql
 
 
